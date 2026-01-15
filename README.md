@@ -24,19 +24,28 @@ Built with HTML, CSS, and JavaScript
 
 No page refresh required for message updates
 
-***Tech Stack***
- **Backend**
-  Java
-  Spring Boot
-  Spring WebSocket
-  STOMP Protocol
-  SockJS
+🛠 Tech Stack
+🔹 Backend
 
-**Frontend**
- HTML5
- CSS3
- JavaScript
- Bootstrap 5
+Java
+
+Spring Boot
+
+Spring WebSocket
+
+STOMP Protocol
+
+SockJS
+
+🔹 Frontend
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Bootstrap 5
 
 **Structure:**
  app/
