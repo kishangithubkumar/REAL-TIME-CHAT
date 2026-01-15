@@ -8,42 +8,25 @@ A modern real-time chat application built using Spring Boot WebSockets (STOMP + 
 
 Features
 
-🔄 Real-time messaging using WebSockets
-
-⚡ STOMP protocol with SockJS fallback
-
-🎨 Modern, attractive UI (Glassmorphism style)
-
-💬 Chat bubbles for sender & receiver
-
-🧑 Multiple users supported
-
-📱 Responsive & mobile-friendly
-
-🧩 Pure HTML, CSS, and JavaScript frontend
-
-🔒 No page refresh required
-
+Real-time messaging using WebSockets
+STOMP protocol with SockJS fallback
+Modern, attractive UI (Glassmorphism style)
+Chat bubbles for sender & receiver
+Multiple users supported
+Responsive & mobile-friendly
+HTML, CSS, and JavaScript frontend
+No page refresh required
 
 Tech Stack
-Backend
-
-Java
-
-Spring Boot
-
-Spring WebSocket
-
-STOMP Protocol
-
-SockJS
+ Backend
+  Java
+  Spring Boot
+  Spring WebSocket
+  STOMP Protocol
+  SockJS
 
 Frontend
-
-HTML5
-
-CSS3
-
-JavaScript
-
-Bootstrap 5
+ HTML5
+ CSS3
+ JavaScript
+ Bootstrap 5
