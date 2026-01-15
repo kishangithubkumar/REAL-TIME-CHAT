@@ -35,39 +35,15 @@ The application enables multiple users to communicate instantly without page ref
 - JavaScript  
 - Bootstrap 5  
 
----
+## RUN
+http://localhost:8080/chat
 
-## 📂 Project Structure
 
- app/
-│
-├── pom.xml
-│
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/
-│   │   │       └── chat/
-│   │   │           └── app/
-│   │   │               ├── AppApplication.java
-│   │   │               ├── config/
-│   │   │               │   └── WebSocketConfig.java
-│   │   │               ├── controller/
-│   │   │               │   └── ChatController.java
-│   │   │               └── model/
-│   │   │                   └── ChatMessage.java
-│   │   │
-│   │   └── resources/
-│   │       ├── templates/
-│   │       │   └── chat.html
-│   │       └── application.properties
-│   │
-│   └── test/
-│       └── java/
-│           └── com/
-│               └── chat/
-│                   └── app/
-│                       └── AppApplicationTests.java
-│
-└── README.md
+## 🎯 Learning Outcomes
+
+- Understanding WebSocket communication
+- Implementing STOMP with Spring Boot
+- Building real-time applications
+- Frontend–backend integration without frameworks
+
 
